@@ -27,12 +27,14 @@ class Navigation extends Component {
                         <li><a>Blog</a></li>
                         <li><a>Elements</a></li>
                     </ul>
-                    <div id="burger-container-web">
-                        <img id="burger-web" alt="burger-menu" src={require("./images/burger.svg")} />
-                    </div>
+
                     <div id="search-container-web">
                         <img id="search-web" alt="search" src={require("./images/search.png")} />
                     </div>
+                    <div id="burger-container-web">
+                        <img id="burger-web" alt="burger-menu" src={require("./images/burger.svg")} />
+                    </div>
+              
                   
 	             </div>
             </nav>

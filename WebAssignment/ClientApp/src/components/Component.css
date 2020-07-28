@@ -244,21 +244,19 @@ footer {
     }
 
     #burger-container-web {
+        padding-left: 15px;
         display: flex;
-        margin-left: 20px;
-        padding-right: 15px;
-        border-right: 1px solid #dee2e6;
     }
 
     #burger-web {
-        width: 100%;
-        height: auto;
         max-width: 18px;
     }
 
     #search-container-web {
-        padding-left: 15px;
         display: flex;
+        margin-left: 20px;
+        padding-right: 15px;
+        border-right: 1px solid #dee2e6;
     }
 
     #search-web {
